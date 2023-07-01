@@ -132,6 +132,12 @@ int main(void) {
 	uint8_t flagauto = 0;
 	float threshold = 0;
 
+    /*
+     *
+     * Куча полезных исправлений ))
+     *
+     * */
+
 	/* USER CODE END 2 */
 
 	/* Infinite loop */
